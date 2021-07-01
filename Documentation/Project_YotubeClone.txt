@@ -1,0 +1,6 @@
+1)6/13/2021
+built the basic home screen with header and icons
+also built a bottom Tab navigator
+
+2)6/15/2021
+built cards and video list item and displaying of thumnails
